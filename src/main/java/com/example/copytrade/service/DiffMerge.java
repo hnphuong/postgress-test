@@ -7,6 +7,5 @@ public interface DiffMerge {
 
     Long checkRebase();
     Integer rebaseLocal();
-
-    Long checkRebase();
+    Double rebaseDevelop();
 }
