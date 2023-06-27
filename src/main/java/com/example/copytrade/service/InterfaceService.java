@@ -4,4 +4,6 @@ public interface InterfaceService {
     Integer createNumber();
 
     String createString();
+
+    Double createDouble();
 }
