@@ -1,7 +1,7 @@
 package com.example.copytrade.service;
 
 public interface InterfaceService {
-    Integer createNumberChangeRebase();
+    Integer createNumberChangeTestRebase();
 
     String createString();
 
