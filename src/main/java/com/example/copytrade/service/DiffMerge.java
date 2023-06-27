@@ -8,4 +8,5 @@ public interface DiffMerge {
     Long checkRebase();
     Integer rebaseLocal();
     Double rebaseDevelop();
+    String finalMerge();
 }
